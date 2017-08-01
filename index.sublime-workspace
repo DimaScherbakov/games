@@ -1,0 +1,536 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"innerScope"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"fib",
+				"fib_num_minus_one"
+			],
+			[
+				"fi",
+				"fib_num"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"a",
+				"answer"
+			],
+			[
+				"che",
+				"checkAgeBoolean"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"nav",
+				"navbar-nav"
+			],
+			[
+				"pda",
+				"padding-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"style",
+				"style"
+			],
+			[
+				"te",
+				"text-align-last"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"logo",
+				"logo_footer"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"j",
+				"justify-content"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"wor",
+				"word-spacing"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fla",
+				"float"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"ove",
+				"overflow-x"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/JavaScript.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/Chrome.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaScript.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/JavaScript.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"last_filter": "live",
+		"selected_items":
+		[
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 322.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dima/Desktop/work/js_learning/hello_world/hello_from_console.js",
+		"/C/Users/Dima/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-build",
+		"/C/Users/Dima/Desktop/work/js_learning/hello_world/recursion.html",
+		"/C/Users/Dima/Desktop/work/js_learning/hello_world/alert.js",
+		"/C/Users/Dima/Desktop/work/diplom_project/index.html",
+		"/C/Users/Dima/Desktop/work/js_learning/hello_world/hello_world.html",
+		"/C/Users/Dima/Desktop/work/diplom_project/game1.html",
+		"/C/Users/Dima/Desktop/work/diplom_project/css/game1.css",
+		"/C/Users/Dima/Desktop/work/diplom_project/css/style.css",
+		"/C/Users/Dima/Desktop/work/js_learning/hello_world/external-directory.js",
+		"/C/Users/Dima/Desktop/work/js_learning/hello_world/functions.html",
+		"/C/Users/Dima/Desktop/work/BOOTSTRAP_LEARNING/beginning/css/style.css",
+		"/C/Users/Dima/Desktop/work/BOOTSTRAP_LEARNING/beginning/affix.html",
+		"/C/Users/Dima/Desktop/work/BOOTSTRAP_LEARNING/beginning/scrollspy.html",
+		"/C/Users/Dima/Desktop/work/BOOTSTRAP_LEARNING/beginning/carousel.html",
+		"/C/Users/Dima/Desktop/work/BOOTSTRAP_LEARNING/beginning/blog.html",
+		"/C/Users/Dima/Desktop/work/BOOTSTRAP_LEARNING/beginning/jumbotron_narrow.html",
+		"/C/Users/Dima/Desktop/work/BOOTSTRAP_LEARNING/beginning/basic_tamplate.html",
+		"/C/Users/Dima/Desktop/work/BOOTSTRAP_LEARNING/beginning/navigation-menu.html",
+		"/C/Users/Dima/Desktop/work/htmlbook/middle/media_request.html",
+		"/C/Users/Dima/Desktop/work/htmlbook/middle/background-clip.html",
+		"/C/Users/Dima/Desktop/work/web_site_templates/CorporateBlue/css/style.css",
+		"/C/Users/Dima/Desktop/work/vasya_project/index.html",
+		"/C/Users/Dima/Desktop/work/vasya_project/css/style.css",
+		"/C/Users/Dima/Desktop/work/BOOTSTRAP_LEARNING/jombatrone_template/css/style.css",
+		"/C/Users/Dima/Desktop/work/BOOTSTRAP_LEARNING/jombatrone_template/index.html",
+		"/C/Users/Dima/Desktop/work/BOOTSTRAP_LEARNING/beginning/index.html",
+		"/C/Users/Dima/Desktop/web_site_templates/CorporateBlue/home_page.html",
+		"/C/Users/Dima/Desktop/vasya_project/css/style.css",
+		"/C/Users/Dima/Desktop/vasya_project/index.html",
+		"/C/Users/Dima/Desktop/BOOTSTRAP_LEARNING/beginning/css/style.css",
+		"/C/Users/Dima/Desktop/BOOTSTRAP_LEARNING/beginning/index.html",
+		"/C/Users/Dima/Desktop/BOOTSTRAP_LEARNING/beginning/basic_tamplate.html",
+		"/C/Users/Dima/Desktop/BOOTSTRAP_LEARNING/beginning/dropdown.html",
+		"/C/Users/Dima/Desktop/htmlbook/layouts/layer-on-the-middle-of-the-page.html",
+		"/C/Users/Dima/Desktop/web_site_templates/CorporateBlue/css/style.css",
+		"/C/Users/Dima/AppData/Roaming/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/C/Users/Dima/Desktop/web_site_templates/CorporateBlue/pixel-glass-js-master.zip",
+		"/C/Users/Dima/Desktop/web_site_templates/CorporateBlue/pixel-glass-js-master/styles.css",
+		"/C/Users/Dima/Desktop/web_site_templates/CorporateBlue/pixel-glass-js-master/pixel-glass-activator.css",
+		"/C/Users/Dima/Desktop/web_site_templates/CorporateBlue/pixel-glass-js-master/pixel-glass-activator.html",
+		"/C/Users/Dima/Desktop/htmlbook/easy/field_for_search.html",
+		"/C/Users/Dima/Desktop/htmlbook/middle/block_with_pointer.html",
+		"/C/Users/Dima/Desktop/htmlbook/layouts/block_with_pointer.html",
+		"/C/Users/Dima/Desktop/htmlbook/layouts/fixed_width_and_using_float.html",
+		"/C/Users/Dima/Desktop/htmlbook/layouts/fixed_width_and_navigation_from_the_left.html",
+		"/C/Users/Dima/Desktop/htmlbook/middle/skeleton.html",
+		"/C/Users/Dima/Desktop/htmlbook/middle/photo_scrolling_markers.html",
+		"/C/Users/Dima/Desktop/htmlbook/middle/border_around_the_form.html",
+		"/C/Users/Dima/Desktop/htmlbook/middle/double_frame.html",
+		"/C/Users/Dima/Desktop/htmlbook/middle/battery.css",
+		"/C/Users/Dima/Desktop/htmlbook/middle/battery.html",
+		"/C/Users/Dima/Desktop/htmlbook/middle/cut_angles.html",
+		"/C/Users/Dima/Desktop/htmlbook/midle/skeleton.html",
+		"/C/Users/Dima/Desktop/htmlbook/midle/battery.css",
+		"/C/Users/Dima/Desktop/htmlbook/midle/battery.html",
+		"/C/Users/Dima/Desktop/htmlbook/skeleton.html",
+		"/C/Users/Dima/Desktop/htmlbook/layout_block_in_the_middle.html",
+		"/C/Users/Dima/Desktop/htmlbook/table-width.html",
+		"/C/Users/Dima/Desktop/htmlbook/inherit_list.html",
+		"/C/Users/Dima/Desktop/htmlbook/flag_of_japan.html",
+		"/C/Users/Dima/Desktop/htmlbook/types_of_devices.html",
+		"/C/Users/Dima/Desktop/htmlbook/table_in_the_center.html",
+		"/C/Users/Dima/Desktop/htmlbook/table_again.html",
+		"/C/Users/Dima/Desktop/htmlbook/table.html",
+		"/C/Users/Dima/Desktop/htmlbook/border_image.html",
+		"/C/Users/Dima/Desktop/htmlbook/field_for_search.html",
+		"/C/Users/Dima/Desktop/htmlbook/field_for_numbers.html",
+		"/C/Users/Dima/Desktop/htmlbook/Space_between_divs.html",
+		"/C/Users/Dima/Desktop/htmlbook/blocks_instead_of_table.html",
+		"/C/Users/Dima/Desktop/htmlbook/table_again.css",
+		"/C/Users/Dima/Desktop/htmlbook/blocks-instead-of-table.css",
+		"/C/Users/Dima/Desktop/htmlbook/table_again_task.html",
+		"/C/Users/Dima/Desktop/htmlbook/skeleton",
+		"/C/Users/Dima/Desktop/htmlbook/hot_paper.html",
+		"/C/Users/Dima/Desktop/htmlbook/correct_mistakes_2.html",
+		"/C/Users/Dima/Desktop/htmlbook/carts.html",
+		"/C/Users/Dima/Desktop/htmlbook/correct_mistakes.html",
+		"/C/Users/Dima/Desktop/htmlbook/tex",
+		"/C/Users/Dima/Desktop/htmlbook/tex.html",
+		"/C/Users/Dima/Desktop/htmlbook/block_elements.html",
+		"/C/Users/Dima/Desktop/htmlbook/assuansk_plotina.html",
+		"/C/Users/Dima/Desktop/htmlbook/android.html",
+		"/C/Users/Dima/Desktop/Тактические приемы допроса.html",
+		"/C/Users/Dima/Desktop/my_blog/wordpress-4.7-ru_RU/wordpress/wp-config-sample.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"7",
+			"fixed",
+			":hover",
+			"outline",
+			"background-color",
+			"outline",
+			"logo.png",
+			"background",
+			"first-ch",
+			"our_clients",
+			"text",
+			";\n",
+			"span",
+			"\t ",
+			"div",
+			"div<p></p>",
+			"div",
+			"Виды допрос",
+			"Виды допросов"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"div",
+			"span",
+			"div"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 267.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

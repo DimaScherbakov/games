@@ -1,0 +1,30 @@
+body,html
+{
+	margin:0;
+	padding: 0;
+	/*background-color: green;*/
+}
+.disable
+{
+	background-color: grey;
+}
+.able
+{
+	background-color: white;
+	outline: 1px solid black;
+}
+.player
+{
+	position: absolute;
+	height: 75px;
+	 top: 25px; 
+	width: 300px;
+}
+.me
+{
+	left: 25px;
+}
+.opponent
+{
+	right: 25px;
+}

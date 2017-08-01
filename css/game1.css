@@ -1,0 +1,127 @@
+html,body
+{
+	padding: 0;
+	margin: 0;
+}
+body
+{
+	margin: 0 auto;
+	/*outline: 1px solid black;*/
+	background-image: url(../images/background.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.wrapper
+{
+	padding: 0;
+}
+.player
+{
+	width: 300px;
+	/*outline: 1px solid black;*/
+	padding-top: 40px;
+	position: relative;
+}
+
+.player_name
+{
+	border-radius: 8px;
+	border: 1px solid black;
+	box-shadow: inset 1px 1px 0 1px rgb(156,156,154),1px 1px 1px 1px black;
+	width: 300px;
+	position: relative;
+	text-align: center;
+	margin-right:0;
+	height: 40px;
+	background-image: linear-gradient(to top, black, white,black);
+	font-size: 35px;
+}
+.score
+{
+	font-size: 25px;
+	border-top : 3px solid grey;
+	border-right: 3px solid black;
+	border-bottom: 3px solid black;
+	border-left: 3px solid grey;
+	z-index: -1;
+background-color: rgb(57,57,57);
+color: white;
+}
+.time_bar
+{
+	/*outline: 1px solid black;*/
+	background-image: url('../images/time_bar_background.png');
+/*background-repeat: no-repeat;*/
+  background-size: cover;
+  width: 200px;
+  margin-top: 10px;
+  height: 15px;
+}
+.one .time_bar{}
+.one .score
+{
+	position: absolute;
+	right: -40px;
+}
+
+.two .score
+{
+	position: absolute;
+	left: -40px;
+}
+.two .time_bar
+{
+	position: absolute;
+	right:60px;
+}
+.one
+{
+	float: left;
+	padding-left: 60px; 
+}
+.two
+{
+	float: right;
+	padding-right: 60px;
+}
+.clerfix
+{
+	clear: both;
+}
+
+.game_section
+{
+	margin: 0 auto;
+	padding-top: 300px;
+	width: 40%;
+	/*outline: 1px solid black;*/
+}
+.game_block
+{
+
+  outline: 1px solid black;
+  width: 70%;
+  height: 66px;
+  margin: 0 auto;
+  margin-bottom: 5px;
+  background-image: url('../images/block_background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 55px;
+  text-align: center;
+  vertical-align: middle;
+  color: rgb(0,255,0);
+  position: relative;
+}
+.game_block:hover:before
+{
+	content: url(../images/pointer.png);
+	position: absolute;
+	left: -65px;	
+}
+a
+{
+	text-decoration: none;
+	color: green;
+}

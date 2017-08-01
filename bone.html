@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>web-games</title>
+</head>
+<link rel="stylesheet" type="text/css" href="css/bone.css">
+<body>
+<div id="players">
+	<div class="player me">me</div>
+	<div class="player opponent">opponent</div>
+</div>
+<div class="wrapper"></div>
+</body>
+</html>
+<script type="text/javascript" src="js/bone.js"></script>
+<script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+<script type="text/javascript">
+	var player1 = document.querySelector('#players>.me') 
+	var me = new Player({root: player1});
+	me.getElem();
+	var player2 = document.querySelector('#players>.opponent');
+	var opponent = new Player({root:player2});
+	opponent.getElem();
+</script>
+<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
